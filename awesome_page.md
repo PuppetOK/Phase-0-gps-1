@@ -10,3 +10,5 @@
 <p>Here is a <a href="GPS-1.1-Release.png">screenshot!</a></p>
 
  <img src="GPS-1.1-Release.png" alt="GPS 1.1 Screenshot" />
+
+ Making an edit for merge conflict
