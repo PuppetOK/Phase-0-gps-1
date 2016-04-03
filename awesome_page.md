@@ -11,4 +11,6 @@
 
  <img src="GPS-1.1-Release.png" alt="GPS 1.1 Screenshot" />
 
- small merging conflict
+
+ Making an edit for merge conflict
+
