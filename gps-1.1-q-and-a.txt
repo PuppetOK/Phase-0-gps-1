@@ -10,3 +10,5 @@
 	-Third to move between different branches you use the command git checkout BRANCH-NAME.
 
 5. The command git fetch downloads from another repository. Git <remote> is usually going to be git origin <branch> in our case. Git merge <remote>/<branch> merges the branch or repo that we are trying to get.
+
+6. The merge conflict happened because the file on the branch small_conflict and the master branch weren’t the same. 
